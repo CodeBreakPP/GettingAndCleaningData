@@ -1,7 +1,23 @@
 GettingAndCleaningData
 ======================
+First download the file into your workdirectory
+unzip the file
 
-
+my script works as the following steps
+read Test set
+read Train set
+read subject names
+create TestSet
+create TrainSet
+read Activity names
+read features names
+Extracts only the measurements on the mean and standard deviation for each measurement, finished step2
+extract names of the measurements on the mean and standard deviation for each measurement
+Merges the training and the test sets to create one data set,finished step1
+independent tidy data set with the average of each variable for each activity and each subject,finished step5
+Uses descriptive activity names to name the activities in the data set, finished step3
+Appropriately labels the data set with descriptive variable names, finished step4 
+output the result
 
 =====================
 CodeBook
