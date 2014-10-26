@@ -8,20 +8,32 @@ CodeBook
 
 Data-Dictionary
 
-subject\n
+subject
+
 subject who performed the activity
+
 1..30
 
+
 activity
+
 name of activity
+
  WALKING
+
  WALKING_UPSTAIRS
+
  WALKING_DOWNSTAIRS
+
  SITTING
+
  STANDING
+
  LAYING
 
+
 tBodyAcc-mean()-X
+
 average of tBodyAcc-mean()-X
 0.2216..0.3015 
 
