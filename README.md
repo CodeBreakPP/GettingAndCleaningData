@@ -8,7 +8,7 @@ CodeBook
 
 Data-Dictionary
 
-subject
+subject\n
 subject who performed the activity
 1..30
 
